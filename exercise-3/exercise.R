@@ -19,7 +19,7 @@ toupper(now.doing)
 ### Bonus
 
 # Pick two of your favorite numbers (between 1 and 100) and assign them to `fav.1` and `fav.2`
-
+fav.1 <-
 
 # Divide each number by the square root of 201 and save it as the same variable
 
